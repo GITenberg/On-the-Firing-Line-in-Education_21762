@@ -1,0 +1,35 @@
+_repo: On-the-Firing-Line-in-Education_21762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ladd, Adoniram Judson
+    gutenberg_agent_id: '24873'
+    url: http://www.gutenberg.org/2009/agents/24873
+description: 'Introduction: Have the schools been discredited by the revelations of
+  the war? -On the firing line in education.-The relation of the state university
+  to the high schools of the state.-The university and the teacher.-The eye problem
+  in the schools.-The home, the church, and the school. Noblesse oblige.-Improvements
+  in our public schools.-Local winter sports.-The function of teachers college.-Credit
+  for quality in secondary and higher education.'
+gutenberg_issued: '2007-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- United States'
+- !lcc 'LD'
+tableOfContents: "I. On the Firing Line in Education\r\nII. The Relation of the State\
+  \ University to the High Schools of the State\r\nIII. The University and the Teacher\r\
+  \nIV. The Eye Problem in the Schools\r\nV. The Home, the Church, and the School\r\
+  \nVI. Noblesse Oblige\r\nVII. Improvements in Our Public Schools\r\nVIII. Local\
+  \ Winter Sports\r\nIX. The Function of Teachers College\r\nX. Credit for Quality\
+  \ in Secondary and Higher Education"
+title: On the Firing Line in Education
+url: http://www.gutenberg.org/ebooks/21762
